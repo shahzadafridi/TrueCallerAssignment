@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Shahzad_Afridi</string>
+    <string name="loading">Loading...</string>
+    <string name="error">Unknown error occured</string>
+    <string name="run_btn">Run</string>
+    <string name="question1_label">1. Truecaller10thCharacterRequest:</string>
+    <string name="question2_label">2. TruecallerEvery10thCharacterRequest:</string>
+    <string name="question3_label">3. TruecallerWordCounterRequest:</string>
+</resources>
